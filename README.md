@@ -1,0 +1,2 @@
+# LinearCongruentRandomLibrary
+线性同余随机数生成器
